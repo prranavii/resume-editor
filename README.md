@@ -62,7 +62,7 @@ App runs at [http://localhost:3000](http://localhost:3000)
 ## 🙋‍♀️ Author
 
 **Pranavi Jain**
-Intern Project Assignment
+
 
 ---
 
